@@ -11,7 +11,6 @@ header{
     position: relative;
     color: #fff;
     padding: 5% 0px 0px 20%;
-    
 }
 
 .form{
@@ -21,7 +20,7 @@ header{
     border-radius: 10px;
     position: relative;
     padding: 64px;
-    margin: -100px 20%;
+    margin: -105px 20% 5% 20%;
 
 }
 .form input{
@@ -62,6 +61,7 @@ h2{
 }
 
 h3 {
+    font-size: 24px;
     font-weight: 600;
     color: #32264D;
 }
@@ -72,7 +72,7 @@ hr {
       height: 2px; /* Define a altura da linha */
       background-color: #E6E6F0; /* Define a cor da linha */
       width: 100%; /* Define a largura da linha */
-      margin: 0 0 10px 0; /* Centraliza a linha e adiciona margem */
+      margin: 0 0 30px 0; /* Centraliza a linha e adiciona margem */
 }
 
 #historia {
