@@ -49,7 +49,3 @@ https://fsdt-contact-acf4ab9867a7.herokuapp.com/contact
 - Com a aplicação finalizada, **deverá ser publicado **no GitHub por um dos integrantes da equipe.**
 - No readme precisa ter o nome completo de todos os integrantes com o RM
 - A equipe que desenvolver, publicar e enviar primeiro, ganha! *(com a validação do professor e do coordenador)*
-- Enviar o link do repositório no canal bate-papo do [discord](https://discord.com/channels/1179103166873223259/1179103827639668747)
-    
-    ![image](https://github.com/victorlfdev/Desafio-FSDT/assets/104789163/a063121d-aa14-4958-af9b-158c39595cfd)
-)
