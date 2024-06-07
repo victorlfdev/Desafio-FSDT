@@ -34,7 +34,7 @@ https://fsdt-contact-acf4ab9867a7.herokuapp.com/contact
 
 1. Caso tenham dúvidas publicar no chat do discord para já irmos nos adaptando com o fórum 
 
-![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/4d2d6738-6d33-4467-84b2-bdb485905c0f/b4626837-0115-4f13-8a35-9fb6cad9eac7/Untitled.png](https://zealous-handball-b23.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4d2d6738-6d33-4467-84b2-bdb485905c0f%2Fb4626837-0115-4f13-8a35-9fb6cad9eac7%2FUntitled.png?table=block&id=8d7b478a-b48e-48af-931a-8e716704c4c7&spaceId=4d2d6738-6d33-4467-84b2-bdb485905c0f&width=2000&userId=&cache=v2))
+![image]([https://prod-files-secure.s3.us-west-2.amazonaws.com/4d2d6738-6d33-4467-84b2-bdb485905c0f/b4626837-0115-4f13-8a35-9fb6cad9eac7/Untitled.png](https://zealous-handball-b23.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4d2d6738-6d33-4467-84b2-bdb485905c0f%2Fb4626837-0115-4f13-8a35-9fb6cad9eac7%2FUntitled.png?table=block&id=8d7b478a-b48e-48af-931a-8e716704c4c7&spaceId=4d2d6738-6d33-4467-84b2-bdb485905c0f&width=2000&userId=&cache=v2))
 
 **REGRAS**
 
@@ -50,4 +50,4 @@ https://fsdt-contact-acf4ab9867a7.herokuapp.com/contact
 - A equipe que desenvolver, publicar e enviar primeiro, ganha! *(com a validação do professor e do coordenador)*
 - Enviar o link do repositório no canal bate-papo do [discord](https://discord.com/channels/1179103166873223259/1179103827639668747)
     
-    ![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/4d2d6738-6d33-4467-84b2-bdb485905c0f/da0c7e00-88f7-497a-af78-df789c199c65/Untitled.png](https://zealous-handball-b23.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4d2d6738-6d33-4467-84b2-bdb485905c0f%2Fda0c7e00-88f7-497a-af78-df789c199c65%2FUntitled.png?table=block&id=67ee81ae-4735-4863-8301-eb1eb779a0a1&spaceId=4d2d6738-6d33-4467-84b2-bdb485905c0f&width=620&userId=&cache=v2))
+    ![image]([https://prod-files-secure.s3.us-west-2.amazonaws.com/4d2d6738-6d33-4467-84b2-bdb485905c0f/da0c7e00-88f7-497a-af78-df789c199c65/Untitled.png](https://zealous-handball-b23.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F4d2d6738-6d33-4467-84b2-bdb485905c0f%2Fda0c7e00-88f7-497a-af78-df789c199c65%2FUntitled.png?table=block&id=67ee81ae-4735-4863-8301-eb1eb779a0a1&spaceId=4d2d6738-6d33-4467-84b2-bdb485905c0f&width=620&userId=&cache=v2))
