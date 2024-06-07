@@ -1,0 +1,58 @@
+header{
+    height: 150px;
+    width: 100%;
+    background-color: #000;
+    position: relative;
+    color: #fff;
+    font-size: 1em;
+    align-content: center;
+    text-align: center;
+    z-index: 0;
+    
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin: 5px;
+    background-color: white;
+    border: solid 1px black;
+    border-radius: 5px;
+    position: relative;
+    padding: 10%;
+}
+.form input{
+    max-width: 40%;
+}
+
+
+.form label{
+    align-items: left !important;
+    position: relative;    
+}
+
+#botao{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: red;
+    margin-top: 5%;
+    padding: 0% 10% 0% 10% ;
+
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    font-weight: 400;
+}
+
+.h2{
+    font-weight: 700;
+    font-size: 64px;
+}
