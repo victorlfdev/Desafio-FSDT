@@ -2,12 +2,14 @@
 
 ## Integrantes
 
-> - Victor Costa - RM357709
-> - Victor Lima - RM357736
+> - Victor Costa Santos - RM357709
+> - Victor Lima Fernandes - RM357736
 > - Tiago Souza - RM357499
 > - Murilo Greco - RM357524
 
 # Desafio
+
+![image](https://github.com/victorlfdev/Desafio-FSDT/assets/104789163/b05cd377-a416-4f37-8773-6458bffc8a3e)
 
 **DESAFIO**
 
@@ -32,9 +34,6 @@ https://fsdt-contact-acf4ab9867a7.herokuapp.com/contact
 
 ```
 
-1. Caso tenham dúvidas publicar no chat do discord para já irmos nos adaptando com o fórum 
-
-![image](https://github.com/victorlfdev/Desafio-FSDT/assets/104789163/3a1332d2-8954-4359-907e-2e4e534ff2b3)
 
 
 **REGRAS**
