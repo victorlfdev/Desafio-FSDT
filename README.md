@@ -1,11 +1,11 @@
 # Desafio-FSDT
 
-Participantes
+## Integrantes
 
-Victor Costa - RM357709
-Victor Lima - RM357736
-Tiago Souza - RM357499
-Murilo Greco - RM357524
+> - Victor Costa - RM357709
+> - Victor Lima - RM357736
+> - Tiago Souza - RM357499
+> - Murilo Greco - RM357524
 
 # Desafio
 
