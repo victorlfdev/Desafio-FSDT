@@ -1,58 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #ECECEC;
+}
+
 header{
-    height: 150px;
     width: 100%;
+    height: 200px;
     background-color: #000;
     position: relative;
     color: #fff;
-    font-size: 1em;
-    align-content: center;
-    text-align: center;
-    z-index: 0;
+    padding: 5% 0px 0px 20%;
     
-}
-
-body{
-    font-family: 'Poppins', sans-serif;
 }
 
 .form{
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin: auto;
-    margin: 5px;
     background-color: white;
-    border: solid 1px black;
-    border-radius: 5px;
+    border-radius: 10px;
     position: relative;
-    padding: 10%;
+    padding: 64px;
+    margin: -100px 20%;
+
 }
 .form input{
-    max-width: 40%;
+    padding: 8px;
+    border-radius: 10px;
+    border:solid 1px #d6d6d673;
 }
-
 
 .form label{
-    align-items: left !important;
-    position: relative;    
+    margin: 0 0 10px 0;
 }
+
+
 
 #botao{
+    margin: 20px auto 0 auto;
     display: flex;
     flex-direction: column;
-    color: white;
-    background-color: red;
-    margin-top: 5%;
-    padding: 0% 10% 0% 10% ;
-
+    color: white; 
+    padding: 1% 5% 1% 5% ;
     color: #fff;
-    background-color: #dc3545;
-    border-color: #dc3545;
+    background-color: #DB1B1B;
+    border-color: transparent;
     font-weight: 400;
+    border-radius: 5px;
+    width: 50%;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
 }
 
-.h2{
+
+h2{
     font-weight: 700;
-    font-size: 64px;
+    font-size: 32px;
+}
+
+h3 {
+    font-weight: 600;
+    color: #32264D;
+}
+
+hr {
+
+    border: none; /* Remove qualquer borda padrão */
+      height: 2px; /* Define a altura da linha */
+      background-color: #E6E6F0; /* Define a cor da linha */
+      width: 100%; /* Define a largura da linha */
+      margin: 0 0 10px 0; /* Centraliza a linha e adiciona margem */
+}
+
+#historia {
+    padding-bottom: 150px;
 }
